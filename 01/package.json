@@ -1,0 +1,22 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Cleidison Soares Neves",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
